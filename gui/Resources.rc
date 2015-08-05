@@ -1,0 +1,8 @@
+neuron RCDATA "res/img/neuron.png" 
+input RCDATA "res/img/input.png" 
+output RCDATA "res/img/output.png" 
+funcao_degree RCDATA "res/img/funcao_degree.png" 
+funcao_bipolar RCDATA "res/img/funcao_bipolar.png" 
+funcao_logistic RCDATA "res/img/funcao_logistic.png" 
+funcao_hiperbolic RCDATA "res/img/funcao_hiperbolic.png" 
+funcao_linear RCDATA "res/img/funcao_linear.png" 

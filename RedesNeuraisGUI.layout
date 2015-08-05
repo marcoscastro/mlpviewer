@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="gui\main.cpp" Top="No" Tabpos="1" TopLine="35">
+			<Cursor Line="67" Column="4"/>
+		</File>
+		<File Name="gui\NeuralNetwork.cpp" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="5" Column="2"/>
+			<Selection Line="7" Column="38"/>
+		</File>
+		<File Name="gui\NeuralNetwork.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="5" Column="18"/>
+		</File>
+	</Files>
+</Layout>

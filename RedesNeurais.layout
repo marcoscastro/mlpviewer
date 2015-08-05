@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Folders>
+		<Folder Name="core" Expanded="Yes"/>
+		<Folder Name="functions" Expanded="Yes"/>
+		<Folder Name="signal" Expanded="Yes"/>
+		<Folder Name="training" Expanded="Yes"/>
+		<Folder Name="test" Expanded="Yes"/>
+	</Folders>
+</Layout>

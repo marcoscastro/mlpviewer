@@ -1,0 +1,35 @@
+5 4 19
+1 logistica 1.0
+2 logistica 1.0
+3 logistica 1.0
+4 linear
+5 linear
+
+entrada  1  0.2 1
+entrada  2 -0.1 1
+entrada  3  0.3 1
+
+entrada  1 -0.5 2
+entrada  2 -0.8 2
+entrada  3  0.4 2
+
+entrada  1 -0.1 3
+entrada  2  0.1 3
+entrada  3 -0.6 3
+
+entrada  4  0.1 4
+conectar 1  0.5 4
+conectar 2 -0.3 4
+conectar 3  0.1 4
+
+entrada  4  0.3 5
+conectar 1  0.2 5
+conectar 2  0.6 5
+conectar 3 -0.9 5
+
+saida    4
+saida    5
+
+amostras 1
+-1.0 2.0 1.0 -1.0 
+saidas 1.0 0.0

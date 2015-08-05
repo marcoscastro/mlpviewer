@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="RedesNeurais.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="No"/>
+	<DeleteObjectsAfter Value="No"/>
+	<DeleteMakefileAfter Value="No"/>
+	<DeleteResourcesAfter Value="No"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<Folder Name="core">
+			<File Name="Signal.h"/>
+			<File Name="Signal.cpp"/>
+			<File Name="Neuron.h"/>
+			<File Name="Neuron.cpp"/>
+			<File Name="Function.h"/>
+		</Folder>
+		<Folder Name="functions">
+			<File Name="Degree.h"/>
+			<File Name="Bipolar.h"/>
+			<File Name="Logistic.h"/>
+			<File Name="Hiperbolic.h"/>
+			<File Name="Linear.h"/>
+		</Folder>
+		<Folder Name="signal">
+			<File Name="InputSignal.h"/>
+			<File Name="OutputSignal.h"/>
+			<File Name="MemorySignal.h"/>
+		</Folder>
+		<Folder Name="training">
+			<File Name="Training.h"/>
+			<File Name="Training.cpp"/>
+		</Folder>
+		<Folder Name="test">
+			<File Name="test_all.cpp"/>
+			<File Name="test_input.h"/>
+			<File Name="test_input.cpp"/>
+			<File Name="test_training.h"/>
+			<File Name="test_training.cpp"/>
+		</Folder>
+	</Files>
+</Project>
